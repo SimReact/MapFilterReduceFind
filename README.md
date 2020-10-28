@@ -1,2 +1,2 @@
 # MapFilterReduceFind
-Created with CodeSandbox
+Learning React (Wednesday)
